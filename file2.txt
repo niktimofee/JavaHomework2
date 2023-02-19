@@ -1,0 +1,20 @@
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [8, 6, 50, 71, 34, 34, 60, 38, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [8, 50, 71, 34, 34, 60, 38, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [50, 71, 34, 34, 60, 38, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 50, 34, 60, 38, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 50, 60, 38, 34, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 60, 50, 38, 34, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 60, 50, 38, 34, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 60, 50, 38, 34, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 60, 50, 38, 34, 34, 8, 6, 3, 0]
+февр. 19, 2023 8:15:16 PM Homework2.Task2 bubbleSort
+INFO: [71, 60, 50, 38, 34, 34, 8, 6, 3, 0]
